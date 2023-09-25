@@ -20,12 +20,11 @@ CA marks and Exam marks both count 50/50 towards final mark. Please refer to Qui
 | 21982717       | Richard     |         |           |            |       |
 
 
-You should store the list of students in a JavaScript object, and upon loading of the page, the 
-students should be populated in the table above. Your object should contain at least 5 students.
-Your ini[al object should not contain marks. All marks should be captured by the officer.
-As for the marks, create an input which allows an exam officer to enter CA and Exam marks 
-accordingly. 
+You should store the list of students in a JavaScript object, and upon loading of the page, the students should be populated in the table above. Your object should contain at least 5 students.
+Your initial object should not contain marks. All marks should be captured by the officer.
+As for the marks, create an input which allows an exam officer to enter CA and Exam marks accordingly. 
 The final mark and grade should auto populate as the exam officer captures the marks.
+
 Please use localStorage to store all your data.
 
 ##Submission
