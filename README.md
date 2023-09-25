@@ -2,8 +2,6 @@
 
 Web Design & Programming (CMP3772)
 
-Quiz 2
-
 Quiz 1 bears reference.
 
 An exam officer at the University of UNAM has been storing marks on excel. You are tasked to come up with a system to capture and keep student marks. You are tasked to come up with a POC (Proof of Concept) of such a system.
@@ -27,7 +25,7 @@ The final mark and grade should auto populate as the exam officer captures the m
 
 Please use localStorage to store all your data.
 
-##Submission
+## Submission
 
 Create a Github repo, push your code and download the zip file for submission on Moodle.
 
