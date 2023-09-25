@@ -13,9 +13,9 @@ CA marks and Exam marks both count 50/50 towards final mark. Please refer to Qui
 
 | Student Number | Full Name   | CA Mark | Exam Mark | Final Mark | Grade |
 | -------------- | ----------  | ------- | --------- | ---------- | ----- |
-| 20128971       | Tonata      |         |           |            |       |
-| 20120881       | Ton-ton     |         |           |            |       |
-| 21982717       | Richard     |         |           |            |       |
+| 20128971       | Tonata      | <input type="text" id="caMark1"> | <input type="text" id="examMark1"> |            |       |
+| 20120881       | Ton-ton     | <input type="text" id="caMark2"> | <input type="text" id="examMark2"> |            |       |
+| 21982717       | Richard     | <input type="text" id="caMark3"> | <input type="text" id="examMark3"> |            |       |
 
 
 You should store the list of students in a JavaScript object, and upon loading of the page, the students should be populated in the table above. Your object should contain at least 5 students.
