@@ -66,6 +66,7 @@ function updateStudentTable() {
         const caMarkInput = document.getElementById(`caMark${index}`);
         const examMarkInput = document.getElementById(`examMark${index}`);
 
+        // Addig events
         caMarkInput.addEventListener("blur", () => {
             updateFinalMark(index, "caMark");
         });
