@@ -117,7 +117,7 @@ function updateFinalMark(index, markType) {
             examMarkInput.value = examMark;
         } else {
             alert(
-                "Student did not qualify for the exam due to a low CA mark (below 40)."
+                "Student did not qualify for exam (low CA mark, below 40)."
             );
             caMarkInput.value = "";
             students[index].caMark = "";
